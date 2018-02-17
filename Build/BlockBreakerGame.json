@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Block Breaker",
+"dataUrl": "BlockBreakerGame.data.unityweb",
+"asmCodeUrl": "BlockBreakerGame.asm.code.unityweb",
+"asmMemoryUrl": "BlockBreakerGame.asm.memory.unityweb",
+"asmFrameworkUrl": "BlockBreakerGame.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
